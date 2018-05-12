@@ -1,0 +1,38 @@
+_repo: Body-Parentage-and-Character-in-HistoryNotes-on-the-Tudor-Period_36993
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jordan, Furneaux
+    alias: Jordan, John Furneaux
+    birthdate: 1830
+    deathdate: 1911
+    gutenberg_agent_id: '38579'
+    url: http://www.gutenberg.org/2009/agents/38579
+description: ''
+gutenberg_issued: '2011-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Henry VIII, King of England, 1491-1547'
+- !lcsh 'Character'
+- !lcsh 'Great Britain -- History -- Tudors, 1485-1603'
+- !lcsh 'Heredity'
+- !lcc 'BJ'
+- !lcc 'DA'
+- !lcsh 'Elizabeth I, Queen of England, 1533-1603'
+- !lcsh 'Mary, Queen of Scots, 1542-1587'
+tableOfContents: The various views of Henry VIII's character -- The relation of body
+  and parentage to character -- Henry's family proclivities -- The wives' question
+  -- The less characteristic features of Henry's character -- The more characteristic
+  features of Henry's character -- Henry and his compeers -- Henry and his people
+  and parliament -- Henry and the Reformation -- Queen Elizabeth and Queen Mary.
+title: 'Body, Parentage and Character in History: Notes on the Tudor Period'
+url: http://www.gutenberg.org/ebooks/36993
